@@ -1,0 +1,5 @@
+tabix:
+  enabled: true
+
+graphite:
+  enabled: true
